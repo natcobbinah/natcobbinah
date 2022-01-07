@@ -43,8 +43,6 @@ I am a Software Developer with hands on experience  on  frontend, backend and mo
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
-**Check the Repositories and don't forget to give a star.** 👇
-
 :star: From [natcobbinah](https://github.com/natcobbinah)
 
 [youtube]: https://www.youtube.com/channel/UCk6c_UkHWtlSSrrjK9pUz4w/videos/
