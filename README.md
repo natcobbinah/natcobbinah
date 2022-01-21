@@ -39,7 +39,7 @@ I am a Software Developer with hands on experience  on  frontend, backend and mo
 [<img align="left" alt="natcobbinah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="natcobbinah | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackOverflow]
 [<img align="left" alt="natcobbinah | npm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />][npm]
-[<img align="left" alt="natcobbinah | npm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sourceforge.svg" />][npm]
+[<img align="left" alt="natcobbinah | npm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sourceforge.svg" />][sourceforge]
 
 <br/>
 
