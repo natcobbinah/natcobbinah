@@ -35,11 +35,11 @@ I am a Software Developer with hands on experience  on  frontend, backend and mo
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="natcobbinah | Youtube"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" onclick="window.open(this.src, '_blank')/>][youtube]
-[<img align="left" alt="natcobbinah | LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" onclick="window.open(this.src, '_blank') />][linkedin]
-[<img align="left" alt="natcobbinah | StackOverflow"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" onclick="window.open(this.src, '_blank')/>][stackOverflow]
-[<img align="left" alt="natcobbinah | npm" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" onclick="window.open(this.src, '_blank')/>][npm]
-[<img align="left" alt="natcobbinah | npm" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sourceforge.svg" onclick="window.open(this.src, '_blank')/>][sourceforge]
+[<img align="left" alt="natcobbinah | Youtube"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" onclick="window.open(this.src, '_blank')"/>][youtube]
+[<img align="left" alt="natcobbinah | LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" onclick="window.open(this.src, '_blank')" />][linkedin]
+[<img align="left" alt="natcobbinah | StackOverflow"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" onclick="window.open(this.src, '_blank')" />][stackOverflow]
+[<img align="left" alt="natcobbinah | npm" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" onclick="window.open(this.src, '_blank')" />][npm]
+[<img align="left" alt="natcobbinah | npm" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sourceforge.svg" onclick="window.open(this.src, '_blank') "/>][sourceforge]
 
 <br/>
 
