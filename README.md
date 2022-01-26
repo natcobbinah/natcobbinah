@@ -35,11 +35,11 @@ I am a Software Developer with hands on experience  on  frontend, backend and mo
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="natcobbinah | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="natcobbinah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="natcobbinah | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackOverflow]
-[<img align="left" alt="natcobbinah | npm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />][npm]
-[<img align="left" alt="natcobbinah | npm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sourceforge.svg" />][sourceforge]
+[<img align="left" alt="natcobbinah | Youtube" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="natcobbinah | LinkedIn" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="natcobbinah | StackOverflow" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackOverflow]
+[<img align="left" alt="natcobbinah | npm" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />][npm]
+[<img align="left" alt="natcobbinah | npm" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sourceforge.svg" />][sourceforge]
 
 <br/>
 
