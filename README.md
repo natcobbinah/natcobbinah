@@ -47,8 +47,8 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 :star: From [natcobbinah](https://github.com/natcobbinah)
 
-[youtube]:<a href="https://www.youtube.com/channel/UCk6c_UkHWtlSSrrjK9pUz4w/videos/" target="_blank"></a>
-[stackOverflow]: <a href="https://stackoverflow.com/users/15930440/walkingkali/ target="_blank"></a>
-[linkedin]: <a href="https://www.linkedin.com/in/nathaniel-cobbinah-31611583/ target="_blank"></a>
-[npm]: <a href="https://www.npmjs.com/~nathaniel_cobbinah target="_blank"></a>
-[sourceforge]:<a href="https://sourceforge.net/u/fmg3ckali/profile target="_blank"></a>
+[youtube]: https://www.youtube.com/channel/UCk6c_UkHWtlSSrrjK9pUz4w/videos/
+[stackOverflow]: https://stackoverflow.com/users/15930440/walkingkali/
+[linkedin]: https://www.linkedin.com/in/nathaniel-cobbinah-31611583/ 
+[npm]: https://www.npmjs.com/~nathaniel_cobbinah
+[sourceforge]:https://sourceforge.net/u/fmg3ckali/profile
