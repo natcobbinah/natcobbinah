@@ -3,10 +3,6 @@
 ---
 
 I am a Software Developer with hands on experience  on  frontend, backend and mobile development:wink:
- 
- 🌱 I’m currently learning  French
- 
- 💬 Ask me about Full Stack Development, and any Tech-related stuff.
 
 ---
 
