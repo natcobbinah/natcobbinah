@@ -31,7 +31,7 @@ I am a Software Developer with hands on experience  on  frontend, backend and mo
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="Portfolio   | Portfolio" src="http://img.shields.io/badge/-Portfolio-F89820?style=flat&logo=java&logoColor=white" />][portfolio]
+[<img align="left" alt="Portfolio   | Portfolio" src="http://img.shields.io/badge/-Portfolio-F89820?style=flat&logo=java&logoColor=black" />][portfolio]
 [<img align="left" alt="natcobbinah | Youtube"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="natcobbinah | LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="natcobbinah | StackOverflow"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"  />][stackOverflow]
