@@ -31,6 +31,7 @@ I am a Software Developer with hands on experience  on  frontend, backend and mo
 
 
 ### You can find in me in the web 🌍
+[<img align="left" alt="Portfolio   | Portfolio"  width="22px" src="http://img.shields.io/badge/-Portfolio-F89820?style=flat&logo=java&logoColor=white" />][portfolio]
 [<img align="left" alt="natcobbinah | Youtube"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="natcobbinah | LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="natcobbinah | StackOverflow"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"  />][stackOverflow]
@@ -43,6 +44,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 :star: From [natcobbinah](https://github.com/natcobbinah)
 
+[portfolio]: https://natcobbinah.github.io/
 [youtube]: https://www.youtube.com/channel/UCk6c_UkHWtlSSrrjK9pUz4w/videos/
 [stackOverflow]: https://stackoverflow.com/users/15930440/walkingkali/
 [linkedin]: https://www.linkedin.com/in/nathaniel-cobbinah-31611583/ 
