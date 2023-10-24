@@ -26,6 +26,7 @@ I am a Software Developer with hands on experience  on  frontend, backend and mo
 <img src="http://img.shields.io/badge/-Git-430098?style=flat&logo=git&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-4DB33D?style=flat&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/-CSharp-000000?style=flat&logo=Csharp&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-Python-4DB35D?style=flat&logo=Python&logoColor=00c8ff">
 
 ### Working Knowledge of
  <img src="https://img.shields.io/badge/C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
