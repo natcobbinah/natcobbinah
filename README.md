@@ -6,6 +6,7 @@ I am a Software Developer with hands on experience  on  frontend, backend and mo
 
 ---
 
+[![Nat Cobbinah's GitHub stats](https://github-readme-stats.vercel.app/api?username=natcobbinah)]
 
 ### Languages and Technologies
 
@@ -46,7 +47,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 :star: From [natcobbinah](https://github.com/natcobbinah)
 
-[portfolio]: https://natcobbinah.github.io/
+[portfolio]: [https://natcobbinah.github.io/](https://shy-lime-dibbler-garb.cyclic.app/)
 [youtube]: https://www.youtube.com/channel/UCk6c_UkHWtlSSrrjK9pUz4w/videos/
 [stackOverflow]: https://stackoverflow.com/users/15930440/walkingkali/
 [linkedin]: https://www.linkedin.com/in/nathaniel-cobbinah-31611583/ 
