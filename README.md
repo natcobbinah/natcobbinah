@@ -6,7 +6,7 @@ I am a Software Developer with hands on experience  on  frontend, backend and mo
 
 ---
 
-[![Nat Cobbinah's GitHub stats](https://github-readme-stats.vercel.app/api?username=natcobbinah)]
+[![NatCobbinah's GitHub stats](https://github-readme-stats.vercel.app/api?username=natcobbinah)](https://github.com/natcobbinah/github-readme-stats)
 
 ### Languages and Technologies
 
