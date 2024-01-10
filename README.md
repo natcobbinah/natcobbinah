@@ -2,7 +2,7 @@
 
 ---
 
-I am a Software Developer with hands on experience  on  frontend, backend and mobile development:wink:
+I am a Software Developer with hands on experience  on  frontend, backend and mobile development
 
 ---
 
