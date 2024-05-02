@@ -19,9 +19,9 @@ I am a Software Engineer with hands on experience  on  frontend, backend and mob
 [<img align="left" alt="natcobbinah | npm" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sourceforge.svg" />][sourceforge]
 
 
-[portfolio]: [https://natcobbinah.github.io/](https://shy-lime-dibbler-garb.cyclic.app/)
+[portfolio]: https://shy-lime-dibbler-garb.cyclic.app/
 [youtube]: https://www.youtube.com/channel/UCk6c_UkHWtlSSrrjK9pUz4w/videos/
-[stackOverflow]: https://stackoverflow.com/users/15930440/walkingkali/
+[stackOverflow]: https://stackoverflow.com/users/22352631/nathaniel-cobbinah
 [linkedin]: https://www.linkedin.com/in/nathaniel-cobbinah-31611583/ 
 [npm]: https://www.npmjs.com/~nathaniel_cobbinah
 [sourceforge]:https://sourceforge.net/u/fmg3ckali/profile
